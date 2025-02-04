@@ -13,7 +13,6 @@ function NavBar({ setShowLogin }) {
   return (
     <div className="navbar">
       <Link to="/">
-        {/* <img src={assets.logo} alt="tomato logo" className="logo" /> */}
         <p className="logo">Chili & Mint</p>
       </Link>
       <ul className="navbar-menu">
